@@ -1,3 +1,5 @@
 <x-layout>
-    Hali!
+    <x-section>
+        Hali!
+    </x-section>
 </x-layout>
